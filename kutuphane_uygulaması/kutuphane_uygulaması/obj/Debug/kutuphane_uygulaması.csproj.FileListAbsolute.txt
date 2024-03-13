@@ -1,0 +1,10 @@
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\bin\Debug\kutuphane_uygulaması.exe.config
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.csprojResolveAssemblyReference.cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.Form1.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.Properties.Resources.resources
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.csproj.GenerateResource.Cache
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\bin\Debug\kutuphane_uygulaması.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\bin\Debug\kutuphane_uygulaması.pdb
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.exe
+c:\users\öğrenci\documents\visual studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.pdb
+C:\Users\Öğrenci\Documents\Visual Studio 2012\Projects\kutuphane_uygulaması\kutuphane_uygulaması\obj\Debug\kutuphane_uygulaması.Form2.resources
